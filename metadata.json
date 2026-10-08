@@ -1,0 +1,6 @@
+{
+  "name": "Power Electronics Converter Simulator",
+  "description": "Interactive educational simulator for 1-phase and 3-phase diode and thyristor power electronics converters with live waveforms, RL load dynamics, dynamic schematics, and harmonic/power analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
